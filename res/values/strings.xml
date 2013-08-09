@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Give me a Movie</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Give me a Movie</string>
+    <string name="movie_title">Give me a random movie</string>
+
+</resources>
